@@ -1,0 +1,14 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>FilFo</title>
+<link></link>
+<description>FilFo Application updates.</description>
+<language>en</language>
+<item>
+<title>Version 0.0.1</title>
+<sparkle:releaseNotesLink>.html</sparkle:releaseNotesLink>
+<pubDate>Sun, 23 May 2021 18:11:12 +0200</pubDate>
+<enclosure url=".exe" sparkle:version="0.0.1" sparkle:dsaSignature="WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw==" type="application/octet-stream"/>
+</item>
+</channel>
+</rss>
