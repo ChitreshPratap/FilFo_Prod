@@ -7,7 +7,7 @@
 <item>
 <title>Version 0.0.2</title>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ChitreshPratap/FilFo_Prod/main/release.html</sparkle:releaseNotesLink>
-<pubDate>Sun, 23 May 2021 18:11:12 +0200</pubDate>
+<pubDate>Sat, 5 June 2021 18:11:12 +0200</pubDate>
 <enclosure url="https://github.com/ChitreshPratap/FilFo_Prod/releases/download/0.0.2/FilFo_setup_win_x64_v0.0.2.exe" sparkle:version="0.0.2" sparkle:dsaSignature="WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw==" type="application/octet-stream"/>
 </item>
 </channel>
